@@ -1005,7 +1005,8 @@ nav.main-menu ul.menu > li > a:before,
 #totop.top-visible,
 .pagination-block .page-numbers:hover,
 .pagination-block .page-numbers.current {
-  background-color: #3368c6;
+  /* background-color: #3368c6; */
+  background-color: #f08013;
 }
 
 /** Skin-border-color **/
@@ -2885,4 +2886,3 @@ section.error-404 .page-content p {
   height: 400px;
   width: 100%;
 }
-
